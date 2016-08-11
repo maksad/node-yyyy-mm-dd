@@ -1,4 +1,4 @@
-# yyyy-mm-dd
+# ES5 version of [yyyy-mm-dd](https://github.com/tallesl/node-yyyy-mm-dd)
 
 [![][build-img]][build]
 [![][coverage-img]][coverage]
